@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/lamour-existe-encore/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for L'amour Existe Encore](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lamour-existe-encore/) |
+| **Get License** | [Obtain a Music License for L'amour Existe Encore](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lamour-existe-encore/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Viens plus près, the night is ours, bébé, laisse-toi faire
+> Sous les néons de Paris, on flirte avec l'enfer
+> Ton parfum de luxe me rend fou, j'perds la raison
+> Dans cette nuit sans fin, we're losing all control, c'est la passion
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
