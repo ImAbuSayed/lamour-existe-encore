@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/lamour-existe-encore/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for L'amour Existe Encore](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lamour-existe-encore/) |
+| **Get License** | [Music Rights & Licensing for L'amour Existe Encore](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lamour-existe-encore/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `d1e5bc44a544b3306b72ae95083a432b68e3ccf61c5fd1d7990174ea2ae268d3` |
 | **Timestamp** | June 25, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
